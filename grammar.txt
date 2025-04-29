@@ -1,0 +1,13 @@
+Command = "Create a class called" ClassName "with fields" FieldList ;
+
+ClassName = Identifier ;
+
+FieldList = Field { "," Field } ;
+
+Field = Identifier ;
+
+Identifier = Letter {Letter | Digit} ;
+
+Letter = "A" | "B" | ... | "Z" | "a" | "b" | ... | "z" ;
+
+Digit = "0" | "1" | ... | "9" ;

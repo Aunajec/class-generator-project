@@ -1,0 +1,10 @@
+Command
+ ├── "Create a class called"
+ ├── ClassName → Student
+ ├── "with fields"
+ └── FieldList
+      ├── Field → name
+      ├── ","
+      ├── Field → GPA
+      ├── ","
+      └── Field → age
