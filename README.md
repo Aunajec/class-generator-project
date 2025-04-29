@@ -4,9 +4,9 @@
 
 This project implements a simple Domain Specific Language (DSL) that takes a text command describing a class definition and generates Python class code.
 
-## Member
+## Members
 
-- [Your Full Name Here]
+- Aunaje' Caldwell, D'Metrius Herring
 
 ## How to Run
 
